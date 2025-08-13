@@ -1,0 +1,9 @@
+[package]
+name = "cubecl-substr"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bytemuck = "1.23.2"
+cubecl = "0.6.0"
+cubecl-wgpu = "0.6.0"
